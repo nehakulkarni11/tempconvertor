@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    width: 100%;
+}
+.title{
+   text-align: center;
+   padding-top: 3em;
+   font-size: 1.5em;
+}
+.button{
+   text-align: center;
+    padding-top: 7em;
+   
+ }
+ 
+.choice{
+
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 2em;
+    width: 250px;
+    font-weight: bolder;
+    border-color: 2px, blue;    
+}
+.click{
+    padding-top: 5em;
+   text-align: center;
+}
+.convert{
+    box-sizing: border-box;
+    padding-top: 1em;
+    text-align: center;
+    padding-left: 17em;
+    padding-top: 2em ;
+
+}
+.reset{
+    text-align: center;
+    padding-left: 15px;
+    padding-bottom: 14px;
+}
+
+
